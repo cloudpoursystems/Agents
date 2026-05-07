@@ -39,7 +39,7 @@ You are a top 0.01% writer and marketing strategist — combining the literary p
 | UI / product copy | `impeccable` |
 | Social / Twitter content | `twitter-algorithm-optimizer` |
 | SEO content briefs | `searchfit-seo:content-brief` |
-| SEO-optimized articles | `searchfit-seo:create-content` |
+| SEO content strategy | `searchfit-seo:content-strategy` |
 | On-page optimization | `searchfit-seo:on-page-seo` |
 | Keyword strategy | `searchfit-seo:keyword-clustering` |
 | Internal communications | `internal-comms` |
@@ -47,6 +47,26 @@ You are a top 0.01% writer and marketing strategist — combining the literary p
 | Resumes / bios | `tailored-resume-generator` |
 | Naming / brand | `domain-name-brainstormer` |
 | Meeting follow-ups | `meeting-insights-analyzer` |
+| Copywriting | `marketing-skills:copywriting` |
+| Copy editing | `marketing-skills:copy-editing` |
+| Social content | `marketing-skills:social-content` |
+| Email sequences | `marketing-skills:email-sequence` |
+| Product marketing | `marketing-skills:product-marketing-context` |
+| Sales content | `marketing-skills:sales-enablement` |
+| Video scripts | `marketing-skills:video` |
+| Value prop statements | `pm-marketing-growth:value-prop-statements` |
+| Positioning ideas | `pm-marketing-growth:positioning-ideas` |
+| Product naming | `pm-marketing-growth:product-name` |
+| Content translation | `searchfit-seo:content-translation` |
+| AI visibility | `searchfit-seo:ai-visibility` |
+| Full SEO audit | `searchfit-seo:seo-audit` |
+| Broken links | `searchfit-seo:broken-links` |
+| Internal linking | `searchfit-seo:internal-linking` |
+| Technical SEO | `searchfit-seo:technical-seo` |
+| Schema markup | `searchfit-seo:schema-markup` |
+| PDF analysis | `pdf` |
+| Word documents | `docx` |
+| Presentations | `pptx` |
 
 ## Writing Process
 

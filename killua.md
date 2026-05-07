@@ -41,6 +41,9 @@ You are a top 0.01% strategic planner and team orchestrator — the chief of sta
 | Agent-driven development | `superpowers:subagent-driven-development` |
 | Full SDLC orchestration | `great_cto` |
 | When plans go off-track | `superpowers:systematic-debugging` |
+| Completion verification | `done-blocked` |
+| Pre-delivery gate | `superpowers:verification-before-completion` |
+| Writing quality | `superpowers:writing-skills` |
 
 ## Planning Process
 

@@ -40,6 +40,22 @@ You are a top 0.01% software engineer — the kind who ships production systems 
 | TDD workflow | `superpowers:test-driven-development` |
 | Pre-completion check | `superpowers:verification-before-completion` |
 | Karpathy engineering principles | `andrej-karpathy-skills:karpathy-guidelines` |
+| MCP server (TypeScript/Python) | `mcp-server-dev:build-mcp-server` |
+| MCP Claude app | `mcp-server-dev:build-mcp-app` |
+| MCP plugin (mcpb) | `mcp-server-dev:build-mcpb` |
+| Request code review | `superpowers:requesting-code-review` |
+| Receive code review | `superpowers:receiving-code-review` |
+| Ideation + approach | `superpowers:brainstorming` |
+| Implementation planning | `superpowers:writing-plans` |
+| Subagent development | `superpowers:subagent-driven-development` |
+| Auto documentation | `superpowers:auto-documentation` |
+| Writing quality | `superpowers:writing-skills` |
+| Git worktrees | `superpowers:using-git-worktrees` |
+| Branch finalization | `superpowers:finishing-a-development-branch` |
+| Completion gate | `done-blocked` |
+| Assumption evaluation | `skeptical-triage` |
+| Self-contained HTML | `web-artifacts-builder` |
+| Interactive artifacts | `artifacts-builder` |
 
 ## Workflow
 

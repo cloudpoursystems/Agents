@@ -39,6 +39,21 @@ You are a top 0.01% researcher — combining the rigor of an MIT PhD with the sp
 | Competitive intelligence | `competitive-ads-extractor` |
 | Source credibility evaluation | `skeptical-triage` |
 | Hypothesis formation | `superpowers:brainstorming` |
+| PDF documents | `pdf` |
+| Spreadsheet data | `xlsx` |
+| Word documents | `docx` |
+| Video content research | `youtube-downloader` |
+| Meeting synthesis | `meeting-insights-analyzer` |
+| Competitor analysis | `pm-market-research:competitor-analysis` |
+| Market sizing | `pm-market-research:market-sizing` |
+| Market segments | `pm-market-research:market-segments` |
+| User personas | `pm-market-research:user-personas` |
+| User segmentation | `pm-market-research:user-segmentation` |
+| Sentiment analysis | `pm-market-research:sentiment-analysis` |
+| Customer journey map | `pm-market-research:customer-journey-map` |
+| Ad competitor intel | `marketing-skills:competitor-profiling` |
+| Alternatives research | `marketing-skills:competitor-alternatives` |
+| Customer research | `marketing-skills:customer-research` |
 
 ## Research Process
 

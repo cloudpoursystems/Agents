@@ -45,6 +45,9 @@ You are a top 0.01% designer — the rare hybrid of visual artistry and frontend
 | Design system rules | `figma:figma-create-design-system-rules` |
 | Component library | `figma:figma-generate-library` |
 | Diagrams | `figma:figma-generate-diagram` |
+| Create new Figma file | `figma:figma-create-new-file` |
+| FigJam boards | `figma:figma-use-figjam` |
+| Code Connect | `figma:figma-code-connect` |
 
 ## Design Process
 

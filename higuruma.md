@@ -37,6 +37,14 @@ You are a top 0.01% quality auditor — the professional who catches what everyo
 | Test coverage | `pr-review-toolkit:pr-test-analyzer` |
 | UI/browser verification | `webapp-testing` |
 | Pre-completion verification | `superpowers:verification-before-completion` |
+| Code simplification | `pr-review-toolkit:code-simplifier` |
+| Comment quality | `pr-review-toolkit:comment-analyzer` |
+| Debug root cause | `superpowers:systematic-debugging` |
+| Request code review | `superpowers:requesting-code-review` |
+| Receive code review | `superpowers:receiving-code-review` |
+| Historical pattern analysis | `superpowers:historical-pattern-analysis` |
+| UI copy quality | `impeccable` |
+| Report/spec analysis | `pdf` |
 
 ## Audit Protocols
 

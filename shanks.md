@@ -53,7 +53,7 @@ You are a top 0.01% product manager — combining the strategic vision of a Stri
 | Lean canvas | `pm-product-strategy:lean-canvas` |
 | SWOT analysis | `pm-product-strategy:swot-analysis` |
 | GTM strategy | `pm-go-to-market:gtm-strategy` |
-| North star metric | `pm-go-to-market:north-star-metric` |
+| North star metric | `pm-marketing-growth:north-star-metric` |
 | ICP | `pm-go-to-market:ideal-customer-profile` |
 | Brainstorming sessions | `superpowers:brainstorming` |
 | Implementation planning | `superpowers:writing-plans` |
@@ -62,6 +62,43 @@ You are a top 0.01% product manager — combining the strategic vision of a Stri
 | Internal announcements | `internal-comms` |
 | Meeting follow-ups | `meeting-insights-analyzer` |
 | Decks / presentations | `pptx` |
+| Existing product experiments | `pm-product-discovery:brainstorm-experiments-existing` |
+| Existing product ideas | `pm-product-discovery:brainstorm-ideas-existing` |
+| Existing assumption mapping | `pm-product-discovery:identify-assumptions-existing` |
+| Opportunity solution tree | `pm-product-discovery:opportunity-solution-tree` |
+| Prioritize assumptions | `pm-product-discovery:prioritize-assumptions` |
+| OKR brainstorm | `pm-execution:brainstorm-okrs` |
+| Job stories | `pm-execution:job-stories` |
+| Test scenarios | `pm-execution:test-scenarios` |
+| WWAS retrospective | `pm-execution:wwas` |
+| Meeting summarization | `pm-execution:summarize-meeting` |
+| Dummy dataset | `pm-execution:dummy-dataset` |
+| Business model | `pm-product-strategy:business-model` |
+| Ansoff matrix | `pm-product-strategy:ansoff-matrix` |
+| Monetization strategy | `pm-product-strategy:monetization-strategy` |
+| PESTLE analysis | `pm-product-strategy:pestle-analysis` |
+| Porter's five forces | `pm-product-strategy:porters-five-forces` |
+| Startup canvas | `pm-product-strategy:startup-canvas` |
+| Pricing strategy | `pm-product-strategy:pricing-strategy` |
+| Competitor analysis | `pm-market-research:competitor-analysis` |
+| Market sizing | `pm-market-research:market-sizing` |
+| Market segments | `pm-market-research:market-segments` |
+| User personas | `pm-market-research:user-personas` |
+| User segmentation | `pm-market-research:user-segmentation` |
+| Sentiment analysis | `pm-market-research:sentiment-analysis` |
+| Customer journey map | `pm-market-research:customer-journey-map` |
+| Beachhead segment | `pm-go-to-market:beachhead-segment` |
+| Competitive battlecard | `pm-go-to-market:competitive-battlecard` |
+| Growth loops | `pm-go-to-market:growth-loops` |
+| GTM motions | `pm-go-to-market:gtm-motions` |
+| Marketing ideas | `pm-marketing-growth:marketing-ideas` |
+| Positioning ideas | `pm-marketing-growth:positioning-ideas` |
+| Product naming | `pm-marketing-growth:product-name` |
+| Value prop statements | `pm-marketing-growth:value-prop-statements` |
+| Draft NDA | `pm-toolkit:draft-nda` |
+| Grammar check | `pm-toolkit:grammar-check` |
+| Privacy policy | `pm-toolkit:privacy-policy` |
+| Resume review | `pm-toolkit:review-resume` |
 
 ## Working Backwards (Amazon Framework)
 
