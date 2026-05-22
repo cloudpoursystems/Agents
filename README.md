@@ -82,6 +82,9 @@ claude-agents/
 ├── INSTALLATION.md         # Setup and configuration
 ├── SKILL_REGISTRY.md       # All skills by agent
 ├── QUALITY_GATE.md         # Higuruma audit protocols
+├── CHEAT.md                # Fast agent routing cheat sheet
+├── SKILL_MAP.md            # Skill stack by agent
+├── BEST_AGENT_FOR_TASK.md   # Best agent by task type
 ├── CHANGELOG.md            # Release history
 ├── examples/
 │   ├── single-agent/       # Per-agent prompt examples
