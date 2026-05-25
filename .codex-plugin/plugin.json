@@ -1,0 +1,29 @@
+{
+  "name": "cloudpour-agents",
+  "version": "1.0.0",
+  "description": "Cloud Pour specialized agent roster from github.com/cloudpoursystems/Agents.",
+  "author": {
+    "name": "Cloud Pour Systems",
+    "url": "https://github.com/cloudpoursystems"
+  },
+  "homepage": "https://github.com/cloudpoursystems/Agents",
+  "repository": "https://github.com/cloudpoursystems/Agents",
+  "license": "UNLICENSED",
+  "interface": {
+    "displayName": "Cloud Pour Agents",
+    "shortDescription": "10 specialized Cloud Pour agents for code, design, research, writing, QA, infra, data, growth, product, and orchestration",
+    "longDescription": "Cloud Pour's specialized agent roster packaged for Codex side panel use. Includes Toji, Hisoka, Gon, Yuji, Higuruma, Pain, Sukuna, Grimmjow, Shanks, and Killua.",
+    "developerName": "Cloud Pour Systems",
+    "category": "Coding",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/cloudpoursystems/Agents",
+    "defaultPrompt": [
+      "Use the right Cloud Pour agent for this task",
+      "Use Toji for coding work",
+      "Use Higuruma to audit this work"
+    ]
+  }
+}
